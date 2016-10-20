@@ -1,2 +1,9 @@
-# coding-monkey-school
-Learning and experimenting w/ code, github and other nifty stuff
+# README
+
+## Purpose
+
+Getting the hang of github
+
+## Notes
+
+Not sure if I'm doing this right.
